@@ -2,7 +2,7 @@ import React from 'react';
 
 import MarketingApp from './components/MarketingApp';
 
-// Test commi
+// Test commit
 export default ()=>{
     return <div> <h1>Hi There</h1> 
         <hr/>
