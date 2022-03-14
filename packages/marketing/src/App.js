@@ -6,6 +6,7 @@ import { StylesProvider } from "@material-ui/core";
 
 import Landing from './components/Landing';
 import Pricing from './components/Pricing';
+//test commit
 
 export default()=>{
     return <div>
